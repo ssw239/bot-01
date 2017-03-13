@@ -8,6 +8,10 @@ using System.Web.Http.Description;
 using Microsoft.Bot.Connector;
 using Newtonsoft.Json;
 
+/*
+ * 2017-0312 
+ */
+
 namespace Bot_Application1
 {
     [BotAuthentication]
